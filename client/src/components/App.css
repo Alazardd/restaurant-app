@@ -1,0 +1,12 @@
+.signup-container {
+  background-image: url("img-signup.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.signin-container {
+  background-image: url("img-signin.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
